@@ -1,4 +1,4 @@
-print("welcome to my general knowledge quiz g")
+
 
 playing = input("do you want to play? ")
 
